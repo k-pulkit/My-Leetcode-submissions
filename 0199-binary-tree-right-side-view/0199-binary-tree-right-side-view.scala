@@ -18,6 +18,5 @@ object Solution {
             // combine the views            
             root.value :: (right ::: left.drop(right.size))
         }
-
     }
 }
