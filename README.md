@@ -1,2 +1,3 @@
 # My-Leetcode-submissions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pulkit42041?theme=light&font=Roboto%20Serif&ext=activity)
